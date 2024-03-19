@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: transparent;
+  color: rgb(86, 83, 83);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.images img {
+  margin: 20px;
+  width: auto;
+  height: auto;
+  border: 1px solid #f1eded;
+  border-radius: 8px;
+}
